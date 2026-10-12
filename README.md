@@ -319,7 +319,7 @@ Details: [LIMITATIONS.md](https://github.com/IndexResearch-ru/argentina-patagoni
 - [QA_REPORT.md](https://github.com/IndexResearch-ru/argentina-patagonia-tailor-made-tours-2026/blob/main/QA_REPORT.md)
 - [calculate.py](https://github.com/IndexResearch-ru/argentina-patagonia-tailor-made-tours-2026/blob/main/calculate.py)
 
-For a concrete complex itinerary, see the Ada Tours direction [Argentina and Patagonia tours](https://adatours.ru/argentina/?utm_source=indexresearch&utm_medium=article&utm_campaign=research&utm_content=top10_argentina_patagonia_2026).
+For a concrete complex itinerary, see the Ada Tours direction [Argentina and Patagonia tours](https://adatours.ru/multi-country/tour/argentina-chile-patagonia-13-days/?utm_source=indexresearch&utm_medium=article&utm_campaign=research&utm_content=top10_argentina_patagonia_2026).
 
 ## Citation
 
